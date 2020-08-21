@@ -1,0 +1,30 @@
+[33mcommit 365a27cb6185afc88971753ce61ec895d1d22063[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Pablo AVC <bleedalik@ciencias.unam.mx>
+Date:   Thu Aug 20 17:52:48 2020 -0500
+
+    AQUí cambie estilos y el html
+
+ CSS/estilos.css     | 18 [32m+++++++++++++++++[m[31m-[m
+ mi_primer_blog.html | 10 [32m+++++++[m[31m---[m
+ 2 files changed, 24 insertions(+), 4 deletions(-)
+
+[33mcommit ef6ea3ba3ad53de51f4947147e78c598fee42b51[m
+Author: Pablo AVC <bleedalik@ciencias.unam.mx>
+Date:   Thu Aug 20 16:05:18 2020 -0500
+
+    carambolas chavo, arrancándo
+
+ .mi_primer_blogcat.swp | Bin [31m0[m -> [32m12288[m bytes
+ CSS/estilos.css        |   6 [32m++++++[m
+ machote_html.html      |   9 [32m+++++++++[m
+ mi_primer_blog.html    |  10 [32m++++++++++[m
+ 4 files changed, 25 insertions(+)
+
+[33mcommit 6aee38820c7f18ca8f124c1c84136331c7ab065d[m
+Author: Pablo Andréa <anphibio@Pablo A. V. C>
+Date:   Thu Aug 20 14:44:29 2020 -0500
+
+    primerísimo commit
+
+ historia.txt | 73 [32m++++++++++++++++++++++++++[m
+ 1 file changed, 73 insertions(+)
