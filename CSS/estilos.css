@@ -45,3 +45,11 @@ body
 {
 	padding: 1em;
 }
+#footer
+{
+	background: coral;
+	text-align: center;
+	border: 6px groove rgb(40, 223, 40);
+	color: rgb(184, 33, 139);
+	font-size: 40px;
+}
