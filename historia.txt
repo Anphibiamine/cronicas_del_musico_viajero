@@ -70,8 +70,5 @@ y pidan clemencia.
 Tengan paciencia
 Ya terminó
 !!!!!YO!!!!
-<<<<<<< HEAD
 aquí el profe le movió
-=======
 este es el experimento numeo uno
->>>>>>> exp 1
