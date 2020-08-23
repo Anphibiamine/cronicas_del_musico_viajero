@@ -70,11 +70,3 @@ y pidan clemencia.
 Tengan paciencia
 Ya terminó
 !!!!!YO!!!!
-jue ago 20 10:14:19 CDT 2020
-MASTER 1
-master dos sin pushar
-<<<<<<< HEAD
-mis polainas
-=======
-Esto lo agrego al final muy facilmente con el doble >>
->>>>>>> no se puede enviar commits vacíos
